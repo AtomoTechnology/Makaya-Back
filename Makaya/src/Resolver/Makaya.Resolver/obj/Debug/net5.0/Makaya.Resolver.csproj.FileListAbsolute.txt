@@ -1,0 +1,24 @@
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\bin\Debug\net5.0\Makaya.Resolver.deps.json
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\bin\Debug\net5.0\Makaya.Resolver.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\bin\Debug\net5.0\ref\Makaya.Resolver.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\bin\Debug\net5.0\Makaya.Resolver.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.csproj.AssemblyReference.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.AssemblyInfoInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.AssemblyInfo.cs
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.csproj.CoreCompileInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\ref\Makaya.Resolver.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.pdb
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\bin\Debug\net5.0\Makaya.Resolver.deps.json
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\bin\Debug\net5.0\Makaya.Resolver.dll
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\bin\Debug\net5.0\ref\Makaya.Resolver.dll
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\bin\Debug\net5.0\Makaya.Resolver.pdb
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.csproj.AssemblyReference.cache
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.AssemblyInfoInputs.cache
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.AssemblyInfo.cs
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.csproj.CoreCompileInputs.cache
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.dll
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\ref\Makaya.Resolver.dll
+C:\Empredimiento\Makaya\src\Resolver\Makaya.Resolver\obj\Debug\net5.0\Makaya.Resolver.pdb

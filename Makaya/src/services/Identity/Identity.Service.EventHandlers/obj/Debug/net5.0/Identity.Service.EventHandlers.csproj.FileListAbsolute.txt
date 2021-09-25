@@ -1,0 +1,29 @@
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\Identity.Service.EventHandlers.deps.json
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\Identity.Service.EventHandlers.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\ref\Identity.Service.EventHandlers.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\Identity.Service.EventHandlers.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.csproj.AssemblyReference.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.AssemblyInfoInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.AssemblyInfo.cs
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.csproj.CoreCompileInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\ref\Identity.Service.EventHandlers.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\Identity.Service.EventHandlers.deps.json
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\Identity.Service.EventHandlers.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\ref\Identity.Service.EventHandlers.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\Identity.Service.EventHandlers.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\Identity.Domain.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\Identity.Persistence.Database.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\Identity.Domain.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\bin\Debug\net5.0\Identity.Persistence.Database.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.csproj.AssemblyReference.cache
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.AssemblyInfo.cs
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.csproj.CopyComplete
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\ref\Identity.Service.EventHandlers.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.EventHandlers\obj\Debug\net5.0\Identity.Service.EventHandlers.pdb

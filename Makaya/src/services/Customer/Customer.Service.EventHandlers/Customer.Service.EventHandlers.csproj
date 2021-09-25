@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Commands\City\CityDeleteCommand.cs~RFee3c4.TMP" />
+    <None Remove="Commands\Country\Update\CountryUpdateCommand.cs~RF2b8e25.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Resolver\Makaya.Resolver\Makaya.Resolver.csproj" />
+    <ProjectReference Include="..\Customers.Persistence.DataBase\Customers.Persistence.DataBase.csproj" />
+  </ItemGroup>
+
+</Project>

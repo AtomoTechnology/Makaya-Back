@@ -1,0 +1,379 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Service.Queries\\Identity.Service.Queries.csproj": {}
+  },
+  "projects": {
+    "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Domain\\Identity.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Domain\\Identity.Domain.csproj",
+        "projectName": "Identity.Domain",
+        "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Domain\\Identity.Domain.csproj",
+        "packagesPath": "C:\\Users\\PRADE\\.nuget\\packages\\",
+        "outputPath": "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PRADE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj",
+        "projectName": "Identity.Persistence.Database",
+        "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj",
+        "packagesPath": "C:\\Users\\PRADE\\.nuget\\packages\\",
+        "outputPath": "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Persistence.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PRADE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Domain\\Identity.Domain.csproj": {
+                "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Domain\\Identity.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Service.Queries\\Identity.Service.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+        "projectName": "Identity.Service.Queries",
+        "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+        "packagesPath": "C:\\Users\\PRADE\\.nuget\\packages\\",
+        "outputPath": "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Service.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PRADE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
+                "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Identity\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj"
+              },
+              "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              },
+              "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+                "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
+              },
+              "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+                "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Paging\\Service.Common.Paging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "projectName": "Service.Common.Collection",
+        "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "packagesPath": "C:\\Users\\PRADE\\.nuget\\packages\\",
+        "outputPath": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Collection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PRADE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+        "projectName": "Service.Common.Mapping",
+        "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+        "packagesPath": "C:\\Users\\PRADE\\.nuget\\packages\\",
+        "outputPath": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PRADE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Paging\\Service.Common.Paging.csproj",
+        "projectName": "Service.Common.Paging",
+        "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Paging\\Service.Common.Paging.csproj",
+        "packagesPath": "C:\\Users\\PRADE\\.nuget\\packages\\",
+        "outputPath": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Paging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PRADE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "C:\\Empredimiento\\Makaya\\src\\services\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

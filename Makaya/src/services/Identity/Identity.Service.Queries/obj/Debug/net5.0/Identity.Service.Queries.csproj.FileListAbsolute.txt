@@ -1,0 +1,35 @@
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Identity.Service.Queries.deps.json
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Identity.Service.Queries.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\ref\Identity.Service.Queries.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Identity.Service.Queries.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.csproj.AssemblyReference.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.AssemblyInfoInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.AssemblyInfo.cs
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.csproj.CoreCompileInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\ref\Identity.Service.Queries.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Identity.Service.Queries.deps.json
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Identity.Service.Queries.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\ref\Identity.Service.Queries.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Identity.Service.Queries.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Identity.Domain.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Identity.Persistence.Database.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Service.Common.Collection.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Service.Common.Mapping.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Service.Common.Paging.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Service.Common.Collection.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Service.Common.Mapping.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Service.Common.Paging.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Identity.Persistence.Database.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\bin\Debug\net5.0\Identity.Domain.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.csproj.AssemblyReference.cache
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.AssemblyInfoInputs.cache
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.AssemblyInfo.cs
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.csproj.CoreCompileInputs.cache
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.csproj.CopyComplete
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\ref\Identity.Service.Queries.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Service.Queries\obj\Debug\net5.0\Identity.Service.Queries.pdb

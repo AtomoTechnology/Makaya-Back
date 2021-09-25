@@ -1,0 +1,216 @@
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\appsettings.json
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.exe
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.deps.json
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.runtimeconfig.json
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.runtimeconfig.dev.json
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\ref\Customers.API.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\HealthChecks.UI.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\HealthChecks.UI.Client.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\HealthChecks.UI.Core.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\AutoMapper.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Fractions.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Humanizer.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\KubernetesClient.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\MediatR.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\YamlDotNet.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.Domain.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.Service.EventHandlers.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.services.queries.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.Persistence.DataBase.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Makaya.Resolver.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Collection.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Mapping.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Paging.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.Service.EventHandlers.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.services.queries.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.Persistence.DataBase.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.Domain.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Makaya.Resolver.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Collection.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Mapping.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Paging.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.csproj.AssemblyReference.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.AssemblyInfoInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.AssemblyInfo.cs
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.csproj.CoreCompileInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\staticwebassets\Customers.API.StaticWebAssets.Manifest.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\staticwebassets\Customers.API.StaticWebAssets.xml
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\scopedcss\bundle\Customers.API.styles.css
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.RazorTargetAssemblyInfo.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.csproj.CopyComplete
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\ref\Customers.API.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.genruntimeconfig.cache
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\appsettings.json
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.exe
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.deps.json
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.runtimeconfig.json
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.runtimeconfig.dev.json
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\ref\Customers.API.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.API.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\HealthChecks.UI.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\HealthChecks.UI.Client.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\HealthChecks.UI.Core.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Fractions.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Humanizer.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\KubernetesClient.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\MediatR.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\YamlDotNet.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.Domain.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.Service.EventHandlers.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.services.queries.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.Persistence.DataBase.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Makaya.Resolver.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Collection.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Mapping.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Paging.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.Service.EventHandlers.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.services.queries.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customers.Persistence.DataBase.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Customer.Domain.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Makaya.Resolver.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Collection.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Mapping.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\bin\Debug\net5.0\Service.Common.Paging.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.csproj.AssemblyReference.cache
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.AssemblyInfoInputs.cache
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.AssemblyInfo.cs
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.csproj.CoreCompileInputs.cache
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\staticwebassets\Customers.API.StaticWebAssets.Manifest.cache
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\staticwebassets\Customers.API.StaticWebAssets.xml
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\scopedcss\bundle\Customers.API.styles.css
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.RazorTargetAssemblyInfo.cache
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.csproj.CopyComplete
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\ref\Customers.API.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.API\obj\Debug\net5.0\Customers.API.genruntimeconfig.cache

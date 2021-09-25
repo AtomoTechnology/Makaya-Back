@@ -1,0 +1,30 @@
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\Customers.Persistence.DataBase.deps.json
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\Customers.Persistence.DataBase.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\ref\Customers.Persistence.DataBase.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\Customers.Persistence.DataBase.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\Customer.Domain.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\Customer.Domain.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.csproj.AssemblyReference.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.AssemblyInfoInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.AssemblyInfo.cs
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.csproj.CoreCompileInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.csproj.CopyComplete
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\ref\Customers.Persistence.DataBase.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\Customers.Persistence.DataBase.deps.json
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\Customers.Persistence.DataBase.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\ref\Customers.Persistence.DataBase.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\Customers.Persistence.DataBase.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\Customer.Domain.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\bin\Debug\net5.0\Customer.Domain.pdb
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.csproj.AssemblyReference.cache
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.AssemblyInfoInputs.cache
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.AssemblyInfo.cs
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.csproj.CoreCompileInputs.cache
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.csproj.CopyComplete
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\ref\Customers.Persistence.DataBase.dll
+C:\Empredimiento\Makaya\src\services\Customer\Customers.Persistence.DataBase\obj\Debug\net5.0\Customers.Persistence.DataBase.pdb

@@ -1,0 +1,30 @@
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Paging.deps.json
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Paging.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\ref\Service.Common.Paging.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Paging.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Collection.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Collection.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.csproj.AssemblyReference.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.AssemblyInfoInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.AssemblyInfo.cs
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.csproj.CoreCompileInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.csproj.CopyComplete
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\ref\Service.Common.Paging.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.pdb
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Paging.deps.json
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Paging.dll
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\ref\Service.Common.Paging.dll
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Paging.pdb
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Collection.dll
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Collection.pdb
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.csproj.AssemblyReference.cache
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.AssemblyInfoInputs.cache
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.AssemblyInfo.cs
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.csproj.CoreCompileInputs.cache
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.csproj.CopyComplete
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.dll
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\ref\Service.Common.Paging.dll
+C:\Empredimiento\Makaya\src\services\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.pdb

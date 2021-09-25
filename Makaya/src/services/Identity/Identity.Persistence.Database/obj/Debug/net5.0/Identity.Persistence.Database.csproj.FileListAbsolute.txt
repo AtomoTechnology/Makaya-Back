@@ -1,0 +1,15 @@
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\bin\Debug\net5.0\Identity.Persistence.Database.deps.json
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\bin\Debug\net5.0\Identity.Persistence.Database.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\bin\Debug\net5.0\ref\Identity.Persistence.Database.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\bin\Debug\net5.0\Identity.Persistence.Database.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\bin\Debug\net5.0\Identity.Domain.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\bin\Debug\net5.0\Identity.Domain.pdb
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\obj\Debug\net5.0\Identity.Persistence.Database.csproj.AssemblyReference.cache
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\obj\Debug\net5.0\Identity.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\obj\Debug\net5.0\Identity.Persistence.Database.AssemblyInfoInputs.cache
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\obj\Debug\net5.0\Identity.Persistence.Database.AssemblyInfo.cs
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\obj\Debug\net5.0\Identity.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\obj\Debug\net5.0\Identity.Persistence.Database.csproj.CopyComplete
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\obj\Debug\net5.0\Identity.Persistence.Database.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\obj\Debug\net5.0\ref\Identity.Persistence.Database.dll
+C:\Empredimiento\Makaya\src\services\Identity\Identity.Persistence.Database\obj\Debug\net5.0\Identity.Persistence.Database.pdb

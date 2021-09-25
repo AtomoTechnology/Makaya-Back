@@ -1,0 +1,23 @@
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Mapping\bin\Debug\net5.0\Service.Common.Mapping.deps.json
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Mapping\bin\Debug\net5.0\Service.Common.Mapping.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Mapping\bin\Debug\net5.0\ref\Service.Common.Mapping.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Mapping\bin\Debug\net5.0\Service.Common.Mapping.pdb
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.AssemblyInfoInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.AssemblyInfo.cs
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.csproj.CoreCompileInputs.cache
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\ref\Service.Common.Mapping.dll
+D:\Empredimiento\Makaya\Makaya con core\Back\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.pdb
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\bin\Debug\net5.0\Service.Common.Mapping.deps.json
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\bin\Debug\net5.0\Service.Common.Mapping.dll
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\bin\Debug\net5.0\ref\Service.Common.Mapping.dll
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\bin\Debug\net5.0\Service.Common.Mapping.pdb
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.csproj.AssemblyReference.cache
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.AssemblyInfoInputs.cache
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.AssemblyInfo.cs
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.csproj.CoreCompileInputs.cache
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.dll
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\ref\Service.Common.Mapping.dll
+C:\Empredimiento\Makaya\src\services\Service.Common.Mapping\obj\Debug\net5.0\Service.Common.Mapping.pdb

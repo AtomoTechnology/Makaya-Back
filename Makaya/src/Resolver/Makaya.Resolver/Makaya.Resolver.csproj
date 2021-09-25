@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Handlers\ApiDataExceptionHandler.cs" />
+    <Compile Remove="Handlers\DbEntityValidationExceptionHandler.cs" />
+    <Compile Remove="Handlers\GenericExceptionHandler.cs" />
+    <Compile Remove="IExceptions\ApiDataException.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Interface\ICityQueryService.cs~RF1b0eb2.TMP" />
+    <None Remove="Interface\IUserQueryService.cs~RF161ff5a.TMP" />
+    <None Remove="Queries\CountryQueryService.cs~RF358bce3.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Resolver\Makaya.Resolver\Makaya.Resolver.csproj" />
+    <ProjectReference Include="..\..\Service.Common.Mapping\Service.Common.Mapping.csproj" />
+    <ProjectReference Include="..\..\Service.Common.Paging\Service.Common.Paging.csproj" />
+    <ProjectReference Include="..\Customers.Persistence.DataBase\Customers.Persistence.DataBase.csproj" />
+  </ItemGroup>
+
+</Project>
